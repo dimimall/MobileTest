@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobileTest</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZGltaW1hbGwiLCJhIjoiY2tydDRpZnJwM2c0NzJvcGUxb3BkeGMxeCJ9.OkgLcMy_-PkTpWa_De0AjA</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
